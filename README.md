@@ -6,7 +6,7 @@ I'm a Full Stack Developer passionate about technology and creating innovative s
 
 ## 🔧 Technologies I use
 
-- **Front-end**: Next.js, React, Vue.js, HTML5, CSS3, JavaScript
+- **Front-end**: Next.js, React, Vue.js, Angular, HTML5, CSS3, JavaScript
 - **Back-end**: NestJS, PHP, Node.js, Express
 - **Others**: Figma, Docker, RESTful APIs
 
